@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.lcwd.electronic.store.services.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.574 s <<< FAILURE! - in com.lcwd.electronic.store.services.UserServiceTest
+updateUserTest  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because the return value of "com.lcwd.electronic.store.dtos.UserDto.getPassword()" is null
+	at com.lcwd.electronic.store.services.UserServiceTest.updateUserTest(UserServiceTest.java:96)
+

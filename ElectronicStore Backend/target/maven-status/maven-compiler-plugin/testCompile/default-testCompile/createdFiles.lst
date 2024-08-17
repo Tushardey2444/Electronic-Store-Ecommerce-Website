@@ -1,0 +1,10 @@
+com\lcwd\electronic\store\services\CartServiceTest.class
+com\lcwd\electronic\store\ElectronicStoreApplicationTests.class
+com\lcwd\electronic\store\controllers\ProductControllerTest.class
+com\lcwd\electronic\store\services\ProductServiceTest.class
+com\lcwd\electronic\store\services\CategoryServiceTest.class
+com\lcwd\electronic\store\controllers\CategoryControllerTest.class
+com\lcwd\electronic\store\controllers\CartControllerTest.class
+com\lcwd\electronic\store\controllers\UserControllerTest.class
+com\lcwd\electronic\store\services\OrderServiceTest.class
+com\lcwd\electronic\store\services\UserServiceTest.class
