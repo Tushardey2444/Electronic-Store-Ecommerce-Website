@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f59983-bedd-4ca0-bb0b-8027ae5cdcaa" name="Changes" comment="Final Project">
-      <change afterPath="$PROJECT_DIR$/images/products/4828dd0f-e70c-4e2e-a435-02fe1d0dc366.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/products/e204b007-c336-4c32-8e17-f1edfef2ff6f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/products/e780da63-2df5-4c66-9aa4-ef800970347a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/users/5f76e1f0-2191-42c2-895c-6c0afae9e567.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/users/9967f632-fc20-412f-936b-892a67187dcd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/users/b0a4e386-9e2d-41dc-a38b-4268554d0a05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/users/e3f911c3-deeb-4401-97ba-75fbb19abc0e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/users/ffd58f54-322a-4b8c-942f-c7e9b31885df.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lcwd/electronic/store/ElectronicStoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lcwd/electronic/store/ElectronicStoreApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="52f59983-bedd-4ca0-bb0b-8027ae5cdcaa" name="Changes" comment="Final Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -55,28 +44,29 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2IzcHJ7Ip5PcCdQP50OYlJrz2Ub" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ElectronicStoreApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Spring Projects/Electronic store/ElectronicStoreProject/ElectronicStore&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ElectronicStoreApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Spring Projects/Electronic store/ElectronicStoreProject/ElectronicStore",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.lcwd.electronic.store.dtos" />
@@ -165,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ElectronicStoreApplication" />
         <item itemvalue="JUnit.UserControllerTest.updateUserTest" />
         <item itemvalue="JUnit.UserControllerTest.getAllUsersTest" />
         <item itemvalue="JUnit.UserControllerTest.createUserTest" />
         <item itemvalue="JUnit.UserControllerTest" />
+        <item itemvalue="Application.ElectronicStoreApplication" />
       </list>
     </recent_temporary>
   </component>
